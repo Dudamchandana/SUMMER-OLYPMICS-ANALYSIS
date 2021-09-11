@@ -1,13 +1,14 @@
 # Summer-Olympics-Analysis
+#### BY CHANDANA DUDAM
 
-This repository is having all the codes regarding the AI/ML Skill India Scholarship Assignment on Summer Olympics Analysis using the Summer.csv.
+This repository is having all the codes regarding the AI/ML Skill India Scholarship Assignment on Summer Olympics Analysis using the Summer_olympic_dataset.csv.
 
 -----
 ### About the Repository?
 
 It's contains Python, Data analysis, CSV file to Analysis Summer Olympics.
-1. summer.csv
-2. summer.ipynb
+1. summer_olympic_dataset.csv
+2. summer_olympics_analysis.ipynb
 
 -----
 In IPYNB file we are doing analysis for the CSV File based on Categories like
